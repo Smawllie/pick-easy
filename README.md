@@ -20,9 +20,10 @@ This project won **1st place** as the **best project** in a course-wide competit
 - [Contributors](#contributors)
 - [License](#license)
 
-## Demo
+## [Demo](https://youtu.be/GQPerJtF0yM)
 
-[![PickEasy Demo](demo-thumbnail.jpg)](https://youtu.be/GQPerJtF0yM "PickEasy Demo")
+![PickEasy Demo](https://user-images.githubusercontent.com/13020652/118190951-d8d1bd80-b411-11eb-9a4b-f7c4cefdd91d.gif)
+
 
 ## Features
 
