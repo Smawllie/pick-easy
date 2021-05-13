@@ -48,7 +48,7 @@ This project won **1st place** as the **best project** in a course-wide competit
 
 ## Contributors
 
-This project was made in collaboration with [Luke Zhang](https://github.com/Smawllie), [Evan Ng](https://github.com/Evan8456), [Anthony Alaimo](https://github.com/AnthonyAlaimo), [Jeremy (Chi Jian) Hsu](https://github.com/Jer3myHsu)
+This project was made in collaboration with [Pravinthan Prabagaran](https://pravinthan.com), [Luke Zhang](https://github.com/Smawllie), [Evan Ng](https://github.com/Evan8456), [Anthony Alaimo](https://github.com/AnthonyAlaimo), [Jeremy (Chi Jian) Hsu](https://github.com/Jer3myHsu)
 
 ## License
 
